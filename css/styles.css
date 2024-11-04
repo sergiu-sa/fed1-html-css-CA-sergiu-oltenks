@@ -298,18 +298,7 @@ nav ul a {
   color: var(--color-primal);
 }
 
-.banner-logo-container {
-  position: relative;
-  top: 20px;
-  left: 20px;
-  background-color: rgba(255, 255, 255, 0.7);
-  padding: 5px 10px;
-  border-radius: 8px;
-}
 
-.banner-logo {
-  width: 150px;
-}
 
 .banner-content {
   text-align: center;
